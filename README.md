@@ -5,7 +5,7 @@ This repository contains my official certificate for the **Advanced Certificatio
 ## 📜 Certificate Details
 
 - **Certificate Name:** Advanced Certification in Data Science & AI  
-- **Issued By:** [Replace with actual institute name, e.g., IIT Roorkee / IIT Madras / AnalytixLabs]  
+- **Issued By:** [Electronics & ICT Academy , Indian Institute of Technology, Guwahati ]  
 - **Completion Date:** April 2025  
 - **Mode:** Offline Program  
 - **Focus Areas:**  
